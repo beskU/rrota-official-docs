@@ -18,7 +18,7 @@ Telegram: https://t.me/rrotaOfficial
 
 X: https://x.com/rrotacoin
 
-Medium Announcement: https://medium.com/@timpiu/rrota-boom-week-is-live-72h-global-spin-race-with-6-sol-rewards-6e0b5c19f0f7
+Medium Announcement: https://medium.com/@timpiu/rrota-boom-week-is-live-72h-global-spin-race-with-6-sol-rewards-6e0b5c19f0f7 
 
 ## Official Solana Contract
 
